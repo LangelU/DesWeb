@@ -1,0 +1,100 @@
+body
+{
+    background: url(img/fondo_5.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+.login_container
+{
+    font-family: sans-serif;
+    background-color: #ffffff;
+    font-size: 20px;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    border-radius: 30px 0 30px 0;
+    border: 7px solid #1E90FF;
+
+}
+.login_container img
+{
+    align-content: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+}
+
+.form_container
+{
+    font-family: sans-serif;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: -26.7%;
+    right: 515px;
+    width: 350px;
+    height: 350px;
+    align-content: center;
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 30px 0 30px 0;
+    border: 7px solid #1E90FF;
+    border-spacing: 20px;
+}
+
+.form_container img
+{
+    align-content: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+}
+
+.comunity_container
+{
+    font-family: sans-serif;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: -26.7%;
+    right: 10px;
+    width: 350px;
+    height: 350px;
+    align-content: center;
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 30px 0 30px 0;
+    border: 7px solid #1E90FF;
+
+}
+.comunity_container img
+{
+    margin-top: 20px;
+    align-content: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+}
+
+.cabecera
+{   
+    font-family: sans-serif;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 25px;
+    right: 100px;
+    width: 850px;
+    height: 180px;
+    align-content: center;
+    justify-content: center;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 50px 0 50px 0;
+    border: 10px solid #1E90FF;
+}

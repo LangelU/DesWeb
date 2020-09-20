@@ -1,0 +1,83 @@
+body{
+	background: url(img/fondo_1.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+
+.container
+{
+	background-color: #FFFFFF;
+	opacity: .95;
+	align-items: center;
+	margin: 0 auto;
+	margin-top: 2%;
+	justify-content: center;
+	width: 400px;
+	border-radius: 15px;
+}
+
+.go_back
+{
+	color: #FFFFFF;
+}
+
+.contenedor{
+	margin: 0;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+
+}
+ 
+.texto{
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+.centro{
+    position: absolute;
+    top: -2070%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+}
+
+.contenedor img{
+	margin-top: -450%;
+	border-radius: 15px;
+	border-color: #000000;
+	border-image: #000000;
+}
+
+.contenedor_2{
+	margin: 0;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+
+}
+ 
+.texto_2{
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+.centro_2{
+    position: absolute;
+    top: -150%;
+    right: -430%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+}
+
+.contenedor_2 img{
+	margin-top: -60%;
+	margin-right: -800%;
+	border-radius: 15px;
+	border-color: #000000;
+	border-image: #000000;
+}
